@@ -1,0 +1,5 @@
+com\api\palavrasorteada\PalavrasorteadaApplication.class
+com\api\palavrasorteada\repository\WordRepository.class
+com\api\palavrasorteada\service\WordService.class
+com\api\palavrasorteada\model\Word.class
+com\api\palavrasorteada\controller\WordController.class
